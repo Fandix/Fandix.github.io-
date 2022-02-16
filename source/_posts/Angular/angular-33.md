@@ -9,7 +9,7 @@ categories:
 - 2021 鐵人賽
 ---
 
-在現代的網頁中絕大部分會需要與 server 互相溝通，無論是從 server 獲取商品的資料用於顯示在畫面中，還是畫面中的設定要儲存回 server 的設定都需與後端 server 互相溝通，Angular 提供了一個 client 端的 HTTP API，那便是 `@angular/common/http` 中的 `HttpClient` service class，該怎麼使用就繼續往下看吧![/images/emoticon/emoticon37.gif](/images/emoticon/emoticon37.gif)。
+在現代的網頁中絕大部分會需要與 server 互相溝通，無論是從 server 獲取商品的資料用於顯示在畫面中，還是畫面中的設定要儲存回 server 的設定都需與後端 server 互相溝通，Angular 提供了一個 client 端的 HTTP API，那便是 `@angular/common/http` 中的 `HttpClient` service class，該怎麼使用就繼續往下看吧!
 
 ![https://ithelp.ithome.com.tw/upload/images/20210905/201247675b7AjP33Yf.jpg](https://ithelp.ithome.com.tw/upload/images/20210905/201247675b7AjP33Yf.jpg)
 
