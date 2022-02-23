@@ -10,7 +10,7 @@ categories:
 
 本章是對計算機概論的`資料處理`做一個整理與筆記，主要是介紹電腦是如何處理資料並且與週邊裝置進行溝通，會探索一些計算機架構的基本原理，也會使用機械語言指令進行一些程式設計。
 
-![img](https://images.idgesg.net/images/article/2018/03/blue-mother-board_circuitry_computer-chip_processor_harddrive-100751586-large.jpg?auto=webp&quality=85,70)
+<img src="https://images.idgesg.net/images/article/2018/03/blue-mother-board_circuitry_computer-chip_processor_harddrive-100751586-large.jpg?auto=webp&quality=85,70" alt="drawing" width="860"/>
 
 <!-- more -->
 
