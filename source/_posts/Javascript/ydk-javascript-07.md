@@ -4,6 +4,7 @@ date: 2020-10-12 14:55:34
 tags:
 - Javascript
 - Front-end
+- Scope & Closures
 
 categories:
 - You Don't Know JavaScript

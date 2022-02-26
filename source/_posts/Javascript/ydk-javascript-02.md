@@ -1,9 +1,10 @@
 ---
-title: You Don't Know JavaScript[Get Started] - Into Programming
+title: You Don't Know JavaScript [Get Started] - Into Programming
 date: 2020-10-04 15:24:42
 tags:
 - Javascript
 - Front-end
+- Get Started
 
 categories:
 - You Don't Know JavaScript

@@ -1,9 +1,10 @@
 ---
-title: You Don't Know JavaScript[Get Started] - what is JavaScript?
+title: You Don't Know JavaScript [Get Started] - what is JavaScript?
 date: 2020-10-03 21:21:16
 tags:
 - Javascript
 - Front-end
+- Get Started
 
 categories:
 - You Don't Know JavaScript
