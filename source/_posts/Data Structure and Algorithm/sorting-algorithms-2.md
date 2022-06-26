@@ -2,10 +2,10 @@
 title: Sorting Algorithms II
 date: 2022-04-08 17:13:45
 tags:
-  - Data Structure and Algorithm
+- CS
 
 categories:
-  - CS
+- Data Structure and Algorithm
 ---
 
 本章將會介紹 `Sorting Algorithms` 中效率比較比較好 `O(nlogn)` 但比較複雜的三種 `sorting method`，分別是 `Merge Sort`, `Heap Sort` 與 `Quick Sort`。

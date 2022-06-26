@@ -2,10 +2,10 @@
 title: Introduction to Algorithm Design
 date: 2022-04-06 10:35:28
 tags:
-- Data Structure and Algorithm
+- CS
 
 categories:
-- CS
+- Data Structure and Algorithm
 ---
 
 本章中將會介紹一些簡單的 Search 方法，比如 `Linear Search`, `Binary Search`，也會介紹一些在寫 Algorithm 時常會用到的一些技巧。

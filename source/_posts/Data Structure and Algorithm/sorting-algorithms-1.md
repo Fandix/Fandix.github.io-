@@ -2,10 +2,10 @@
 title: Sorting Algorithms I
 date: 2022-04-07 10:34:59
 tags:
-  - Data Structure and Algorithm
+- CS
 
 categories:
-  - CS
+- Data Structure and Algorithm
 ---
 
 本章將會介紹 `Sorting Algorithms` 中效率比較差但比較簡單的三種 `sorting method`，分別是 `Bubble Sort`, `Insertion Sort` 與 `Seection Sort`。
